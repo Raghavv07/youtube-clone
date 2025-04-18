@@ -1,0 +1,9 @@
+{
+    "code-runner.runInTerminal": true,
+    "accessibility.accessibleView.closeOnKeyPress": false,
+    "accessibility.verbosity.hover": false,
+    "accessibility.verbosity.inlineCompletions": false,
+    "accessibility.verbosity.notification": false,
+    "accessibility.verbosity.walkthrough": false,
+    "explorer.compactFolders": false
+}
